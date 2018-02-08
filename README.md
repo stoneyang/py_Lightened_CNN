@@ -8,6 +8,11 @@ Python version of Lightened CNN for face feature extraction. For technique detai
 #### Download training dataset
 Require CASIA-WebFace datasets from [here](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html).
 
+Download and unextract the dataset:
+```
+unrar x $DATASET_RAR $EXTRACTED_DIR
+```
+Generate file list such that in each line listed one image patch and its class label.
 ```
 # map pics to contiguous label
 $ cd ${FACIAL_BASE_SCRIPT}
