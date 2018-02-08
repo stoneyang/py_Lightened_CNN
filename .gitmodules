@@ -1,0 +1,3 @@
+[submodule "third_party/SeetaFaceEngine"]
+	path = third_party/SeetaFaceEngine
+	url = https://github.com/stoneyang/SeetaFaceEngine
