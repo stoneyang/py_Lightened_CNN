@@ -1,3 +1,6 @@
 [submodule "third_party/SeetaFaceEngine"]
 	path = third_party/SeetaFaceEngine
 	url = https://github.com/stoneyang/SeetaFaceEngine
+[submodule "third_party/opencv_face_align"]
+	path = third_party/opencv_face_align
+	url = https://github.com/stoneyang/opencv_face_align
